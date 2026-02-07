@@ -2,7 +2,7 @@
 
 ### soy persona sorda de nacimiento ✨
 ### me gusta arte, dibujo ✍️
-### tecnologico software 👩‍💻
+### 👩‍💻 tecnologico software 
 ### Amo LSC 🤟
 <!--
 **nubiayesenia/Nubiayesenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
