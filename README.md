@@ -2,7 +2,7 @@
 
 ### ✨Soy persona sorda de nacimiento 
 ### ✍️Me gusta arte, dibujo 
-### 👩‍💻 tecnológico software 
+### 👩‍💻Tecnológico software 
 ### 🤟Amo LSC 
 
 
