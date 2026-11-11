@@ -1,9 +1,9 @@
-## Hola Soy Nubia
+## 🌸 Hola, soy Nubia
 
-### ✨Soy persona sorda de nacimiento 
-### ✍️Me gusta arte, dibujo 
-### 👩‍💻Tecnológico software 
-### 🤟Amo LSC 
+✨ Soy una persona sorda de nacimiento.
+✍️ Me gusta el arte y el dibujo.
+👩‍💻 Estudio tecnología en desarrollo de software.
+🤟 Amo la Lengua de Señas Colombiana (LSC).
 
 
 <!--DSDETT
